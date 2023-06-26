@@ -1,5 +1,4 @@
-# Project Name: Smart Watch Health Monitoring for Children with Asthma and Cystic
-Fibrosis
+# Project Name: Smart Watch Health Monitoring for Children with Asthma and Cystic Fibrosis
 
 ## Description
 This project aims to predicts astha attacks for kids. The project includes data sets, preprocessing methods, data analysis, and model experimentation.
